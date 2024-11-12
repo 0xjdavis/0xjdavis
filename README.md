@@ -187,15 +187,15 @@ An agentic generative AI retrieval augmented generation (RAG) platform that crea
 <br />
 <br />
 
-**<a href="https://literal.streamlit.app" target="_blank">Literal</a>**  
-Designed for US asylum applicants, this generative AI retrieval augmented generation (RAG) platform uses a natural language chatbot to provide a Q&A for interviews as well as a quiz based on the user provided affidavits. AI agents use a workflow to generate questions, an evaluation rubric, and a report with a score as well as a table of all the questions, answers, score, evaluation and explanation as to what was wrong or write about the answer.<br /> 
-*Skills: Bert, Llama 3.2, LlamaIndex, Pandas, Pinecone, Python, Streamlit, Together AI*
-<br />
-<br />
-
 **<a href="https://job-tools.jdavis.xyz" target="_blank">Job Tools</a>**  
 Use AI generated resume insights and a job description specific cover letter to get your next job.<br />
 *Skills: JavaScript, OpenAI GPT-4, React*
+<br />
+<br />
+
+**<a href="https://literal.streamlit.app" target="_blank">Literal</a>**  
+Designed for US asylum applicants, this generative AI retrieval augmented generation (RAG) platform uses a natural language chatbot to provide a Q&A for interviews as well as a quiz based on the user provided affidavits. AI agents use a workflow to generate questions, an evaluation rubric, and a report with a score as well as a table of all the questions, answers, score, evaluation and explanation as to what was wrong or write about the answer.<br /> 
+*Skills: Bert, Llama 3.2, LlamaIndex, Pandas, Pinecone, Python, Streamlit, Together AI*
 <br />
 <br />
 
@@ -219,47 +219,46 @@ Zero-shot generative AI text to image chatbot using various open source leading 
 <br />
 <br />
 
-**<a href="https://data-visualization-chatbot.streamlit.app" target="_blank">Visualized Data Analysis Chatbot</a>**  
-Talk with your data using this natural language chatbot which provides data analysis and displays a chart of the data.<br />
-*Skills:  CSV, LangChain, OpenAI GPT-4, Plotly, Python, Streamlit*
-<br />
-<br />
-
 **<a href="https://multithread-chatbot.streamlit.app" target="_blank">Multithread Chatbot with AI Assistant</a>**  
 It’s a multithreaded app that allows multiple users to interact using natural language chatbot with a triggerable  AI assistant capable of iteration.<br />
 *Skills: OpenAI GPT-3.5, Python,Streamlit*
 <br />
 <br />
 
-### AI Data Analysis & NLP Case Studies
-**<a href="https://video-vision.streamlit.app" target="_blank">Video Frame Analysis</a>**  
-App that uses natural language to describe what is in the video with OpenAI GPT-4o.<br />
-*Skills: OpenAI GPT-4o, Python, Streamlit*
+**<a href="https://data-visualization-chatbot.streamlit.app" target="_blank">Visualized Data Analysis Chatbot</a>**  
+Talk with your data using this natural language chatbot which provides data analysis and displays a chart of the data.<br />
+*Skills:  CSV, LangChain, OpenAI GPT-4, Plotly, Python, Streamlit*
 <br />
 <br />
 
+### AI Data Analysis & NLP Case Studies
+**<a href="https://portfolio.jdavis.xyz/case/sorcery/ab-test" target="_blank">A/B Testing Analysis Proof of Concept Case Study</a>**  
+A case study exploring an A/B testing proof of concept for campaign analysis.<br />
+*Skills: HEX, Hugging Face, Matplotlib, Numpy, Pandas, Python, Scipy, Seaborn*
+<br />
+<br />
 **<a href="https://portfolio.jdavis.xyz/case/sorcery/nlp" target="_blank">NLP Sentiment Analysis Proof of Concept Case Study</a>**  
 A case study exploring natural language processing proof of concept for user research.<br />
 *Skills: BERT, HEX, Hugging Face, Matplotlib, Numpy, Pandas, Python, Sklearn*
 <br />
 <br />
 
-**<a href="https://portfolio.jdavis.xyz/case/sorcery/ab-test" target="_blank">A/B Testing Analysis Proof of Concept Case Study</a>**  
-A case study exploring an A/B testing proof of concept for campaign analysis.<br />
-*Skills: HEX, Hugging Face, Matplotlib, Numpy, Pandas, Python, Scipy, Seaborn*
+**<a href="https://video-vision.streamlit.app" target="_blank">Video Frame Analysis</a>**  
+App that uses natural language to describe what is in the video with OpenAI GPT-4o.<br />
+*Skills: OpenAI GPT-4o, Python, Streamlit*
 <br />
 <br />
 
-### Other Generative AI Apps...
-**<a href="https://pixel-art-gen.streamlit.app" target="_blank">Pixel Art Converter</a>**  
-Convert jpg/png files to a pixelated version.<br />
-*Skills: Matplotlib, Python, Streamlit*
-<br />
-<br />
-
+### Other Generative AI Apps...  
 **<a href="https://asset-chart.streamlit.app/" target="_blank">Asset Chart with Commenting</a>**  
 Share your thoughts on this historic price data for comparison of assets.<br />
 *Skills: Altair, Click, Vega-datasets, Google-api-python-client, Google-auth, Google-auth-httplib2, Protobuf, Python, Streamlit*
+<br />
+<br />
+
+**<a href="https://pixel-art-gen.streamlit.app" target="_blank">Pixel Art Converter</a>**  
+Convert jpg/png files to a pixelated version.<br />
+*Skills: Matplotlib, Python, Streamlit*
 <br />
 <br />
 
