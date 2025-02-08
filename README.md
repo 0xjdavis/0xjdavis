@@ -9,7 +9,7 @@
 0xjdavis/0xjdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# AI Product Engineer for Hire!
+# AI Product Design Engineer for Hire!
 
 [![PyPI version](https://img.shields.io/pypi/v/openai.svg)](https://pypi.org/project/me/)
 
