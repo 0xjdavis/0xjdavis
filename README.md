@@ -88,7 +88,7 @@ pip install me @your_company
 
 > [!IMPORTANT]<br />
 > Need help?<br />
-> I am currently available for new projects!<br />
+> I am currently available for new projects!<br /><br />
 <a href="https://calendly.com/0xjdavis" target="_blank"><img src="button.png" /></a><br />
 <br />
 
