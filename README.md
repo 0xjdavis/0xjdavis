@@ -36,7 +36,7 @@ I combine a deep technical AI expertise with a strong background in creative dir
 I want to change people's everyday lives for the better.<br />
 <br />
 
-### Recent AI Innovation Achievement
+### Recent AI Innovation Awards
 <table><tr><td border="0" valign="top" width="200" >
 <a href="https://rag-a-thon-2.devpost.com" target="_blank"><img src="sponsors-rag-a-thon_720.png" width="200" height="auto"></a><br />
 <img src="award-ragathon.jpg" alt="Third Place" width="200" height="auto"><br />
