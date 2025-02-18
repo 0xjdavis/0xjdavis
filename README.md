@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="ocean2.mp4" target="_blank"><img src="ocean.png"/></a><br />
 > &#x1F525; **Generated with AI!** <br />
-> *View more of my AI Artwork at <a href="https://shots.jdavis.xyz" target="_blank">shots.jdavis.xyz</a> and Web3 projects at <a href="https://jdavis.xyz" target="_blank">jdavis.xyz</a>.*
+> *View more of my AI Artwork <a href="https://pitch.com/v/ai-artwork-by-jeff-davis-cwbqy7" target="_blank">here</a> and at <a href="https://shots.jdavis.xyz" target="_blank">shots.jdavis.xyz</a>. You can find Web3 projects at <a href="https://jdavis.xyz" target="_blank">jdavis.xyz</a>.*
 
 ## Table of Contents
 1. <a href="#welcome">Welcome</a>
